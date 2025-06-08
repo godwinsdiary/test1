@@ -16,7 +16,7 @@
 var ddsmoothmenu={
 
 //Specify full URL to down and right arrow images (23 is padding-right added to top level LIs with drop downs):
-arrowimages: {down:['downarrowclass', 'images/down.gif', 23], right:['rightarrowclass', 'images/right.gif']},
+arrowimages: {down:['downarrowclass', 'https://godwinsdiary.github.io/images/down.gif', 23], right:['rightarrowclass', 'https://godwinsdiary.github.io/images/right.gif']},
 
 transition: {overtime:50, outtime:50}, //duration of slide in/ out animation, in milliseconds
 shadow: {enable:true, offsetx:7, offsety:7},
